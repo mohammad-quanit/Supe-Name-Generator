@@ -1,6 +1,6 @@
-# name_generator
+# Supe Name Generator
 
-A new Flutter project.
+A side Flutter project.
 
 ## Getting Started
 
